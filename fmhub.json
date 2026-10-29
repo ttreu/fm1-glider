@@ -1,0 +1,7 @@
+{
+  "what": "Drone synth: the white keys latch scale tones, the black keys glide them up or down the scale like a steel guitar, always in key. 25 scales, two-oscillator voices, tape echo, filter, delay, shimmer reverb and a synthesized microsound drum track.",
+  "kinds": [
+    "synth"
+  ],
+  "play": "https://subcity.at/demo/fm1-glider/"
+}
