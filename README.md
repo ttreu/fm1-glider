@@ -7,6 +7,12 @@ key and scale. Warm two-oscillator voices with overtones, undertones and slow
 motion, a tape echo that can self-oscillate, a ladder filter, a delay and a
 strong shimmer reverb, plus a quiet microsound drum track underneath.
 
+<p align="center"><img src="docs/img/panel.webp" alt="GLIDER on the FM-1 (browser simulator): four tones latched, glides on the black keys" width="760"></p>
+
+<p align="center"><img src="docs/img/lcd-play.webp" alt="GLIDER display" width="250"> <img src="docs/img/lcd-glide.webp" alt="GLIDER display" width="250"> <img src="docs/img/lcd-drums.webp" alt="GLIDER display" width="250"></p>
+
+<p align="center"><b><a href="https://subcity.at/flash/fm1-glider/">Install in the browser</a></b> · <a href="https://subcity.at/demo/fm1-glider/">Try the simulator</a> · <a href="https://subcity.at/fm1-glider/">Downloads &amp; guide</a></p>
+
 > **Beta – a hobby project.** GLIDER runs on a real FM-1 (tested on one unit,
 > October 2026). Test reports from more FM-1 owners are very welcome. No
 > support is promised.
@@ -39,10 +45,10 @@ The full manual is [GLIDER.md](GLIDER.md).
 
 ## Install
 
-Downloads (workbench page with this firmware and the original V15 recovery
-image) are on [subcity.at/fm1-glider](https://subcity.at/fm1-glider/). Open the page in Chrome or
-Edge, connect the FM-1 by USB and use *Device update*; the first install from
-the stock firmware needs *Recovery & force update*.
+**In the browser:** open [subcity.at/flash/fm1-glider](https://subcity.at/flash/fm1-glider/) in Chrome or
+Edge, connect the FM-1 by USB and use *Device update* (coming from the stock firmware:
+*Recovery & force update*). The page also holds the original M-VAVE V15 firmware to go back.
+The same page is in the download on [subcity.at/fm1-glider](https://subcity.at/fm1-glider/), together with the source code.
 
 **Before flashing:** back up your projects, voices and samples with the
 firmware that is on the device now. GLIDER does not use them, but they stay
